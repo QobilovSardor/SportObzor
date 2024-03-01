@@ -1662,15 +1662,18 @@ td {
 .tournament-table tbody .status-boxes div {
 	background-color: var(--forest-green);
 	border-radius: 2px;
-	padding: 0px 4px;
-	text-align: center;
+	width: 17px;
+	height: 16px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .tournament-table tbody .status-boxes>div>p {
 	font-size: 10px !important;
 	color: var(--white);
 	font-weight: 600;
-	line-height: 16px !important;
+	line-height: 0 !important;
 	text-align: center;
 }
 
