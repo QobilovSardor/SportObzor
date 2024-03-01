@@ -1674,8 +1674,6 @@ td {
 	color: var(--white);
 	font-weight: 600;
 	line-height: 0 !important;
-	margin-left: 1px;
-	margin-top: 1px;
 }
 
 .tournament-table tbody .status-boxes .silver-box {
