@@ -2543,7 +2543,10 @@ input[type="search"]::-webkit-search-results-decoration {
 	align-items: center;
 	gap: 122px;
 }
-
+.review-league .turnir-tr .flex p {
+  width: 60px;
+  text-align: right;
+}
 
 /* match page */
 .match-page .match-banner {
